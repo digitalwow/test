@@ -1,0 +1,17 @@
+D:\Asp.Net_Project\test\test\bin\Debug\test.exe
+D:\Asp.Net_Project\test\test\bin\Debug\test.pdb
+D:\Asp.Net_Project\test\test\obj\x86\Debug\test.Properties.Resources.resources
+D:\Asp.Net_Project\test\test\obj\x86\Debug\test.exe
+D:\Asp.Net_Project\test\test\obj\x86\Debug\test.pdb
+D:\Asp.Net_Project\test\test\bin\Debug\test.exe.config
+D:\Asp.Net_Project\test\test\bin\Debug\MySql.Data.dll
+D:\Asp.Net_Project\test\test\obj\x86\Debug\test.Form1.resources
+D:\Asp.net_project\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+D:\Asp.net_project\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+D:\Asp.net_project\test\test\bin\Debug\websocket-sharp.dll
+D:\Asp.net_project\test\test\bin\Debug\websocket-sharp.pdb
+D:\Asp.net_project\test\test\bin\Debug\WebSocket4Net.dll
+D:\Asp.net_project\test\test\bin\Debug\CSkin.dll
+D:\Asp.net_project\test\test\bin\Debug\log4net.dll
+D:\Asp.net_project\test\test\bin\Debug\CSkin.xml
+D:\Asp.net_project\test\test\bin\Debug\log4net.xml
